@@ -1,0 +1,20 @@
+name: "Sarah's Website"
+output_dir: "."
+navbar:
+  title: "Saving Behavior of Minority Racial Groups in the UK"
+  left:
+    - text: "Introduction"
+      href: index.html
+    - text: "Literature Review"
+      href: Literaturereview.html
+    - text: "Methodology"
+      href: Methodology.html
+    - text: "Results"
+      href: Results.html
+    - text: "Discussion"
+      href: Discussion.html
+    - text: "Appendices"
+      href: Appendices.html
+    - text: "Citations"
+      href: citations.html
+  

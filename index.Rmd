@@ -1,0 +1,27 @@
+---
+
+
+
+---
+**Saving Behavior of Minority Racial Groups in the UK**  
+**Sarah Amin Ali**  
+**BDS-522**  
+**04/30/2018**  
+
+
+#####Introduction
+
+Between 2009 and 2013, the savings ratio in the UK fluctuated between 7% and 12%, reaching the highest point in late 2009 and early 2010 and hitting the lowest point in 2008 and again in mid-2013 (United Kingdom Household Saving Ratio, 2018). While this macro-level information is useful to analyze overall saving behavior and trends, there is a need to study what these trends look like at a grassroots level, particularly for communities that are at a disadvantaged position in the economy.
+
+Racial minorities constituted 5.4 per cent of older people (age sixty-five plus) in 2007 compared with 9.6 per cent of the total UK population (Lievesley, 2010). According to Orla Gough and Roberta Adami (2013), there is significant heterogeneity in the proportions of savers across racial groups. The groups with the highest percentages of savers are White and Chinese men while Bangladeshi, Black Africans and, Pakistani men, exhibit the lowest proportions of savers. Another recent study on racial minorities shows that, in the UK, more than 60 per cent of Asian and Black people have no savings at all, and those who do have savings and hold lower amounts and less diversified financial products than the white majority (Khan, 2010).
+
+Racial minorities in the UK still face substantial discrimination within the job market with poorer job opportunities, interrupted job histories and greater unemployment rates than the white majority (Barnes and Taylor, 2006). Research also indicates that 60 per cent of racial minorities between fifty and state pension age are economically inactive compared with 40 per cent of the white population (The Pensions Commission, 2004). This implies that racial minorities in the UK are at a financially disadvantaged position. I aim to understand how this affects their saving behavior and whether there is a significant difference between the saving behaviors of racial minorities and the white majority. This is a particularly important question, especially as public funding of retirement was likely to be reduced in the years after 2012 and policy-makers were encouraging the shift of responsibility for retirement income towards private savings rather than state benefits (Gough, Adami, 2012). 
+
+The analysis in this paper is based on Wave 2 of Understanding Society Survey-The UK Household Longitudinal Study. The data is collected between 2009-2013 from approximately 40,000 households in the United Kingdom, i.e., the geographical area of the countries England, Scotland, Wales and Northern Ireland. 
+
+There are two indicators for savings in my paper; the first is a numeric continuous self-reported amount saved per month and a categorical variable of frequency of saving behavior (whether an individual “saves regularly” or from “time to time”). My hypotheses are:
+
+**Hypothesis 1: Whites, on average, in the UK save more than racial minorities, holding gender, income and age constant.**
+
+**Hypothesis 2: Whites in the UK are more likely to report that they save frequently than racial minorities, holding gender, age and income factors constant.**
+
