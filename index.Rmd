@@ -19,9 +19,9 @@ Racial minorities in the UK still face substantial discrimination within the job
 
 The analysis in this paper is based on Wave 2 of Understanding Society Survey-The UK Household Longitudinal Study. The data is collected between 2009-2013 from approximately 40,000 households in the United Kingdom, i.e., the geographical area of the countries England, Scotland, Wales and Northern Ireland. 
 
-There are two indicators for savings in my paper; the first is a numeric continuous self-reported amount saved per month and a categorical variable of frequency of saving behavior (whether an individual “saves regularly” or from “time to time”). My hypotheses are:
+There are two indicators for savings in my paper; the first is a numeric continuous self-reported amount saved per month and a categorical variable of regularity of saving behavior (whether an individual “saves regularly” or from “time to time”). My hypotheses are:
 
 **Hypothesis 1: Whites, on average, in the UK save more than racial minorities, holding gender, income and age constant.**
 
-**Hypothesis 2: Whites in the UK are more likely to report that they save frequently than racial minorities, holding gender, age and income factors constant.**
+**Hypothesis 2: Whites in the UK are more likely to report that they save regularly than racial minorities, holding gender, age and income factors constant.**
 

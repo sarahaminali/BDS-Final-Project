@@ -51,7 +51,7 @@ R^2                         18%
 () standard error
     
 
-**Results of Regression B: Testing the relationship between frequency of saving and gender, age, income and race**
+**Results of Regression B: Testing the relationship between regularity of saving and gender, age, income and race**
 
 Variable                  Coefficient       
 ------------              -----------        
@@ -66,7 +66,18 @@ Other                      -0.188(0.238)+
 Constant                   -1.77(0.406)***. 
 N                           1254
 () standard error
- 
+
+
+**Appendix 3: Results for the Wald-Chi2 Test**
+
+Variable                  Pr(>Chi)       
+------------              -----------        
+**Female(ref. male)**      0.259+
+**Age**                    0.004**
+**Age2**                   0.000***
+**LogIncome**              0.000***
+**Race**                   0.022 *
+
 ```{r, echo=FALSE} 
 library(haven)
 mydata <- read_dta("b_indresp.dta")
