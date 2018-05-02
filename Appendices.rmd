@@ -130,6 +130,12 @@ barplot(counts, main="Race Distribution in the sample",
         xlab="1= Whites 2=Mixed 3=South Asians 4=Other", ylab="number of people", col="purple")
 ```
 
+
+
+![Graph 1](/Users/sarahali/Desktop/Final Project/Graph1.png)
+![Graph 2](/Users/sarahali/Desktop/Final Project/Graph2.png)
+![Graph 3](/Users/sarahali/Desktop/Final Project/Graph3.png)
+
 ![Graph 4](/Users/sarahali/Desktop/Final Project/Graph4.png)
 
 ![Graph 5](Graph5.png)
